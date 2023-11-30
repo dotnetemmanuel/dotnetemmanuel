@@ -1,4 +1,4 @@
-![MasterHead](./github_banner.png)
+![MasterHead](./github_banner (1).png)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dotnet_emmanuel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanuel-duchene) 
