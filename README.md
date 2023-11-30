@@ -1,5 +1,7 @@
-### Hi there 👋
+[![MasterHead](your image link)](your GitHub link)
 
+### Hi there 👋
+![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dotnetemmanuel&show_icons=true&theme=ayu-mirage)
 <!--
 **dotnetemmanuel/dotnetemmanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
