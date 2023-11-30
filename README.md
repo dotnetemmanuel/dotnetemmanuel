@@ -13,3 +13,13 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=dotnetemmanuel&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<h3 align="center">A passionate frontend developer from India</h3>
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/dotnet_emmanuel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dotnet_emmanuel" height="30" width="40" /></a>
+</p>
