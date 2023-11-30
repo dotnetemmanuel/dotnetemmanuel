@@ -1,4 +1,4 @@
-[![MasterHead](your image link)](your GitHub link)
+[![MasterHead](./github_banner.png)](your GitHub link)
 
 ### Hi there 👋
 ![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dotnetemmanuel&show_icons=true&theme=ayu-mirage)
