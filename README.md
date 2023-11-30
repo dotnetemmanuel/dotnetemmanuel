@@ -13,8 +13,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=dotnetemmanuel&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="center">A passionate frontend developer from India</h3>
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
