@@ -17,6 +17,6 @@
 - [13 years, and welcome to The Nerd Heap!](https://dev.to/dotnet_emmanuel/13-years-and-welcome-to-the-nerd-heap-1b1l)
 <!-- BLOG-POST-LIST:END -->
 
-![](https://komarev.com/ghpvc/?username=dotnetemmanuel&color=F3CD7C &style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=dotnetemmanuel&color=F3CD7C&style=for-the-badge)
 ---
 
