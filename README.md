@@ -10,10 +10,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dotnetemmanuel&theme=ayu-mirage&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dotnetemmanuel&theme=ayu-mirage&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=dotnetemmanuel&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 # <img src="./blog.gif" alt="Blog Posts" width="30"/> Blogs Posts
 <!-- BLOG-POST-LIST:START -->
 - [The &#39;SELECT&#39; Few: Enhancing SSMS with SQL Add-Ons and tweaks](https://dev.to/dotnet_emmanuel/the-select-few-enhancing-ssms-with-sql-add-ons-and-tweaks-n4k)
 - [13 years, and welcome to The Nerd Heap!](https://dev.to/dotnet_emmanuel/13-years-and-welcome-to-the-nerd-heap-1b1l)
 <!-- BLOG-POST-LIST:END -->
+---
+[![](https://visitcount.itsvg.in/api?id=dotnetemmanuel&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
