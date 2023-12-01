@@ -1,6 +1,6 @@
 ![MasterHead](./github_banner(1).png)
 
-# <img src="./engagement.gif" alt="Socials" width="30"/> Socials:
+# <img src="./icons8-verified-account-96.png" alt="Socials" width="30"/> Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dotnet_emmanuel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanuel-duchene) [![DEV.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/dotnet_emmanuel)
 
 # <img src="./coding.gif" alt="Tech Stack" width="30"/> Tech Stack:
