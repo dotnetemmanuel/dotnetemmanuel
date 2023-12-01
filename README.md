@@ -1,6 +1,6 @@
 ![MasterHead](./github_banner(1).png)
 
-## 🌐 Socials:
+## ![Socials](./engagement.gif) Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dotnet_emmanuel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanuel-duchene) [![DEV.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/dotnet_emmanuel)
 
 # 💻 Tech Stack:
