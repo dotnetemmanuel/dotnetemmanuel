@@ -9,7 +9,7 @@
 # <img src="./icons8-statistics-64.png" alt="GitHub Stats" width="25"/> GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=dotnetemmanuel&theme=ayu-mirage&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dotnetemmanuel&theme=ayu-mirage&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dotnetemmanuel&theme=ayu-mirage&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dotnetemmanuel&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=false&layout=compact&size_weight=0&count_weight=1)](https://github.com/ditnetemmanuel/github-readme-stats)
 
 # <img src="./icons8-blog-64.png" alt="Blog Posts" width="25"/> Blog Posts - The Nerd Heap
 <!-- BLOG-POST-LIST:START -->
