@@ -1,8 +1,8 @@
 name: Latest blog post workflow
 
+# Run from the Actions tab when a new post is published. Hourly polling was churning through runs
+# to pick up a handful of posts a year.
 on:
-  schedule:
-    - cron: "0 * * * *"
   workflow_dispatch:
 
 permissions:

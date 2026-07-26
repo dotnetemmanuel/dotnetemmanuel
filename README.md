@@ -123,7 +123,7 @@ software and internal tooling on .NET.
 - [13 years, and welcome to The Nerd Heap!](https://dev.to/dotnet_emmanuel/13-years-and-welcome-to-the-nerd-heap-1b1l)
 <!-- BLOG-POST-LIST:END -->
 
-<sub>Auto-updated hourly from the dev.to feed via GitHub Actions.</sub>
+<sub>Pulled from the dev.to feed by a GitHub Action, run on demand.</sub>
 
 ---
 
