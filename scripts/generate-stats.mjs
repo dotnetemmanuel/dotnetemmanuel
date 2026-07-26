@@ -100,8 +100,12 @@ async function collect() {
   // Own repos plus repos contributed to elsewhere, so the card reflects participation, not just ownership.
   // Only public repos may be named on a public profile; private repo names must never be rendered.
   const contributed = u.repositoriesContributedTo.nodes.map((r) => ({ ...r, external: true }));
+  // The profile repo is excluded everywhere: this workflow commits to it on every refresh, which
+  // would keep re-ranking it as the freshest project and pass its own tooling off as a skill.
+  const isProfileRepo = (name) => name.toLowerCase() === u.login.toLowerCase();
+
   const publicRepos = [...u.repositories.nodes, ...contributed]
-    .filter((r) => !r.isPrivate && !BORING.test(r.name))
+    .filter((r) => !r.isPrivate && !BORING.test(r.name) && !isProfileRepo(r.name))
     .sort((a, b) => b.pushedAt.localeCompare(a.pushedAt));
 
   // Rank the languages of the projects actually shipped in, newest first. Byte totals would rank a
@@ -157,7 +161,7 @@ async function collect() {
       return all.filter((m) => pct(m.value, sum) >= 1);
     })(),
     activeRepos: cc.commitContributionsByRepository
-      .filter((r) => !r.repository.isPrivate && !BORING.test(r.repository.name))
+      .filter((r) => !r.repository.isPrivate && !BORING.test(r.repository.name) && !isProfileRepo(r.repository.name))
       .map((r) => ({
         // External repos carry their owner so it is clear the work was on someone else's project.
         name: r.repository.owner.login === u.login ? r.repository.name : r.repository.nameWithOwner,
