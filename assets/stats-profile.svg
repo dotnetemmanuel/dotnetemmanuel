@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 306" width="880" height="306" role="img" aria-label="ENGINEER PROFILE">
+  <rect x="0.75" y="0.75" width="878.5" height="304.5" rx="10" fill="#00172E" stroke="#134E5A" stroke-width="1.5"/>
+  <g font-family="ui-monospace, 'JetBrains Mono', 'Fira Code', Menlo, Consolas, monospace">
+    <text x="22" y="34" fill="#8CBFB8" font-size="11" letter-spacing="3">ENGINEER PROFILE</text>
+    <text x="858" y="34" fill="#3F8F8A" font-size="11" letter-spacing="2" text-anchor="end">1665 CONTRIBUTIONS</text>
+    <line x1="0" y1="50" x2="880" y2="50" stroke="#134E5A" stroke-width="1"/>
+<text x="22" y="84" fill="#F6DCAC" font-size="15" font-weight="700">Programming Language Skills</text>
+<g><rect x="279" y="67" width="33.2" height="24" rx="5" fill="#011F3C" stroke="#134E5A"/><text x="295.6" y="83" fill="#8CBFB8" font-size="11" text-anchor="middle">C#</text></g>
+<g><rect x="320.2" y="67" width="59.6" height="24" rx="5" fill="#011F3C" stroke="#134E5A"/><text x="350.0" y="83" fill="#8CBFB8" font-size="11" text-anchor="middle">KOTLIN</text></g>
+<g><rect x="387.79999999999995" y="67" width="46.4" height="24" rx="5" fill="#011F3C" stroke="#134E5A"/><text x="411.0" y="83" fill="#8CBFB8" font-size="11" text-anchor="middle">RUST</text></g>
+<text x="22" y="118" fill="#3F8F8A" font-size="11" letter-spacing="2">INDICATORS</text>
+<text x="22" y="142" fill="#3F8F8A" font-size="13">&#8211;</text>
+<text x="40" y="142" fill="#F6DCAC" font-size="13">Contributed to Mindful-Stack/smarticipate in C#</text>
+<text x="22" y="166" fill="#3F8F8A" font-size="13">&#8211;</text>
+<text x="40" y="166" fill="#F6DCAC" font-size="13">Built StickyScroll using Kotlin</text>
+<text x="22" y="190" fill="#3F8F8A" font-size="13">&#8211;</text>
+<text x="40" y="190" fill="#F6DCAC" font-size="13">Built jotter using Rust</text>
+<text x="22" y="214" fill="#3F8F8A" font-size="13">&#8211;</text>
+<text x="40" y="214" fill="#F6DCAC" font-size="13">Built Cairn using Go</text>
+<text x="22" y="248" fill="#3F8F8A" font-size="11" letter-spacing="2">EVIDENCE</text>
+<g><rect x="22" y="260" width="191.6" height="24" rx="5" fill="#011F3C" stroke="#134E5A"/><text x="117.8" y="276" fill="#8CBFB8" font-size="11" text-anchor="middle">Mindful-Stack/smarticipate</text></g>
+<g><rect x="221.6" y="260" width="198.2" height="24" rx="5" fill="#011F3C" stroke="#134E5A"/><text x="320.7" y="276" fill="#8CBFB8" font-size="11" text-anchor="middle">dotnetemmanuel/StickyScroll</text></g>
+<g><rect x="427.79999999999995" y="260" width="158.6" height="24" rx="5" fill="#011F3C" stroke="#134E5A"/><text x="507.1" y="276" fill="#8CBFB8" font-size="11" text-anchor="middle">dotnetemmanuel/jotter</text></g>
+<g><rect x="594.4" y="260" width="152.0" height="24" rx="5" fill="#011F3C" stroke="#134E5A"/><text x="670.4" y="276" fill="#8CBFB8" font-size="11" text-anchor="middle">dotnetemmanuel/Cairn</text></g>
+  </g>
+</svg>
