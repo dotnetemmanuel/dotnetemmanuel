@@ -30,6 +30,11 @@ const CW = 0.6; // monospace advance width as a fraction of font-size, used for 
 const W = 880;
 const PAD = 22;
 
+// Scratch repos and course work say nothing about what gets built, so keep them off the cards.
+const BORING = /sandbox|uppgift|^notes$|-notes$|dotfiles|^test|demo$/i;
+// A drive-by commit on someone else's repo is not a contribution worth a chip.
+const MIN_EXTERNAL_COMMITS = 2;
+
 const esc = (s) =>
   String(s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&apos;" }[c]));
 const textW = (s, size) => s.length * size * CW;
@@ -96,7 +101,7 @@ async function collect() {
   // Only public repos may be named on a public profile; private repo names must never be rendered.
   const contributed = u.repositoriesContributedTo.nodes.map((r) => ({ ...r, external: true }));
   const publicRepos = [...u.repositories.nodes, ...contributed]
-    .filter((r) => !r.isPrivate)
+    .filter((r) => !r.isPrivate && !BORING.test(r.name))
     .sort((a, b) => b.pushedAt.localeCompare(a.pushedAt));
 
   // Rank the languages of the projects actually shipped in, newest first. Byte totals would rank a
@@ -152,7 +157,7 @@ async function collect() {
       return all.filter((m) => pct(m.value, sum) >= 1);
     })(),
     activeRepos: cc.commitContributionsByRepository
-      .filter((r) => !r.repository.isPrivate)
+      .filter((r) => !r.repository.isPrivate && !BORING.test(r.repository.name))
       .map((r) => ({
         // External repos carry their owner so it is clear the work was on someone else's project.
         name: r.repository.owner.login === u.login ? r.repository.name : r.repository.nameWithOwner,
@@ -249,7 +254,7 @@ function profileCard(d) {
   const chips = chipRow(PAD, y, evidence, 11, C.muted);
   parts.push(chips.svg);
 
-  return card(y + chips.height + 14, "ENGINEER PROFILE", `${d.totalContributions} CONTRIBUTIONS`, parts.join("\n"));
+  return card(y + chips.height + 14, "ENGINEER PROFILE", `${d.totalContributions} CONTRIBUTIONS / LAST 12 MONTHS`, parts.join("\n"));
 }
 
 function activityCard(d) {
@@ -282,7 +287,7 @@ function activityCard(d) {
   ];
 
   const own = d.activeRepos.filter((r) => !r.external).slice(0, 4);
-  const ext = d.activeRepos.filter((r) => r.external).slice(0, 3);
+  const ext = d.activeRepos.filter((r) => r.external && r.count >= MIN_EXTERNAL_COMMITS).slice(0, 3);
 
   const ownChips = chipRow(PAD, 176, own.map((r) => `${r.name}  ${r.count}`), 12, C.text);
   parts.push(ownChips.svg);
@@ -291,7 +296,14 @@ function activityCard(d) {
   if (ext.length) {
     parts.push(`<text x="${PAD}" y="${y}" fill="${C.dim}" font-size="11" letter-spacing="2">OPEN-SOURCE CONTRIBUTION</text>`);
     y += 14;
-    const extChips = chipRow(PAD, y, ext.map((r) => `${r.name}  ${r.count} commit${r.count === 1 ? "" : "s"}${r.stars ? `  ★ ${r.stars}` : ""}`), 12, C.muted);
+    // A literal star glyph falls back to a bare asterisk in GitHub's renderer, so spell it out.
+    const extChips = chipRow(
+      PAD,
+      y,
+      ext.map((r) => `${r.name}  ${r.count} commits${r.stars ? `  ${r.stars} star${r.stars === 1 ? "" : "s"}` : ""}`),
+      12,
+      C.muted
+    );
     parts.push(extChips.svg);
     y += extChips.height;
   }
@@ -330,7 +342,7 @@ function habitsCard(d) {
     tile(PAD + (tileW + 12) * 2, tileW, `${d.longestStreak}d`, "LONGEST STREAK"),
   ];
 
-  return card(tileY + 64 + PAD, "WORK HABITS & SCHEDULE", "", parts.join("\n"));
+  return card(tileY + 64 + PAD, "WORK HABITS & SCHEDULE", "LAST 12 MONTHS", parts.join("\n"));
 }
 
 const data = await collect();

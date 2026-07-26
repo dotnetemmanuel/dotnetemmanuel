@@ -17,11 +17,20 @@
 
 ## `~/ whoami`
 
-Systems developer building line-of-business software, internal tooling and developer
-utilities — mostly on .NET, increasingly on Rust and Go where they fit better.
+Systems developer at **[Mindful Stack](https://mindfulstack.se)**, building line-of-business
+software and internal tooling on .NET.
 
-- 🔭 Building **[Cairn](https://github.com/dotnetemmanuel/Cairn)** — a keyboard-driven TUI for stacked-PR workflows
-- 🧑‍🏫 Mentoring interns and LIA students on architecture, testing and code review
+###### The job
+
+- 🏢 Systems developer at **[Mindful Stack](https://mindfulstack.se)**, where I build and maintain line-of-business systems
+- 🧑‍🏫 Teaching at yrkeshögskolan, part of the same role
+- 🤝 Supervising LIA students through their placements: architecture, testing and code review
+
+###### On my own time
+
+- 🔭 **[Cairn](https://github.com/dotnetemmanuel/Cairn)**, a keyboard-driven TUI for stacked-PR workflows
+- 📓 **[jotter](https://github.com/dotnetemmanuel/jotter)**, a small note-taking tool in Rust
+- 🧩 **[StickyScroll](https://github.com/dotnetemmanuel/StickyScroll)**, a JetBrains IDE plugin
 - ✍️ Writing at **[The Nerd Heap](https://dev.to/dotnet_emmanuel)**
 - 🐧 Daily driver: Omarchy (Arch + Hyprland) on a ThinkPad P14s
 
@@ -40,7 +49,6 @@ utilities — mostly on .NET, increasingly on Rust and Go where they fit better.
 ![SQL](https://img.shields.io/badge/SQL-00172E?style=for-the-badge&logo=postgresql&logoColor=FAA968)
 ![HTML5](https://img.shields.io/badge/HTML5-00172E?style=for-the-badge&logo=html5&logoColor=FAA968)
 ![CSS](https://img.shields.io/badge/CSS-00172E?style=for-the-badge&logo=css&logoColor=FAA968)
-![Lua](https://img.shields.io/badge/Lua-00172E?style=for-the-badge&logo=lua&logoColor=FAA968)
 ![Bash](https://img.shields.io/badge/Bash-00172E?style=for-the-badge&logo=gnubash&logoColor=FAA968)
 
 ###### Frameworks & Runtimes
@@ -55,22 +63,17 @@ utilities — mostly on .NET, increasingly on Rust and Go where they fit better.
 ![Node.js](https://img.shields.io/badge/Node.js-00172E?style=for-the-badge&logo=nodedotjs&logoColor=E97B3C)
 ![Vite](https://img.shields.io/badge/Vite-00172E?style=for-the-badge&logo=vite&logoColor=E97B3C)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-00172E?style=for-the-badge&logo=tailwindcss&logoColor=E97B3C)
-![Android](https://img.shields.io/badge/Android-00172E?style=for-the-badge&logo=android&logoColor=E97B3C)
-![Jetpack Compose](https://img.shields.io/badge/Compose-00172E?style=for-the-badge&logo=jetpackcompose&logoColor=E97B3C)
-![GTK4](https://img.shields.io/badge/GTK4-00172E?style=for-the-badge&logo=gtk&logoColor=E97B3C)
 
 ###### Data
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00172E?style=for-the-badge&logo=postgresql&logoColor=8CBFB8)
-![PostGIS](https://img.shields.io/badge/PostGIS-00172E?style=for-the-badge&logo=postgresql&logoColor=8CBFB8)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-00172E?style=for-the-badge&logo=microsoftsqlserver&logoColor=8CBFB8)
 ![SQLite](https://img.shields.io/badge/SQLite-00172E?style=for-the-badge&logo=sqlite&logoColor=8CBFB8)
 ![MongoDB](https://img.shields.io/badge/MongoDB-00172E?style=for-the-badge&logo=mongodb&logoColor=8CBFB8)
-![Redis](https://img.shields.io/badge/Redis-00172E?style=for-the-badge&logo=redis&logoColor=8CBFB8)
-![Supabase](https://img.shields.io/badge/Supabase-00172E?style=for-the-badge&logo=supabase&logoColor=8CBFB8)
 
 ###### Platform & Tooling
 
+![Windows](https://img.shields.io/badge/Windows-00172E?style=for-the-badge&logo=windows&logoColor=A7C9C6)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-00172E?style=for-the-badge&logo=archlinux&logoColor=A7C9C6)
 ![Hyprland](https://img.shields.io/badge/Hyprland-00172E?style=for-the-badge&logo=hyprland&logoColor=A7C9C6)
 ![Neovim](https://img.shields.io/badge/Neovim-00172E?style=for-the-badge&logo=neovim&logoColor=A7C9C6)
@@ -80,7 +83,6 @@ utilities — mostly on .NET, increasingly on Rust and Go where they fit better.
 ![Docker](https://img.shields.io/badge/Docker-00172E?style=for-the-badge&logo=docker&logoColor=A7C9C6)
 ![Git](https://img.shields.io/badge/Git-00172E?style=for-the-badge&logo=git&logoColor=A7C9C6)
 ![GitHub Actions](https://img.shields.io/badge/Actions-00172E?style=for-the-badge&logo=githubactions&logoColor=A7C9C6)
-![Vercel](https://img.shields.io/badge/Vercel-00172E?style=for-the-badge&logo=vercel&logoColor=A7C9C6)
 
 ---
 
@@ -90,8 +92,8 @@ utilities — mostly on .NET, increasingly on Rust and Go where they fit better.
 | :--- | :--- | :--- |
 | **[Cairn](https://github.com/dotnetemmanuel/Cairn)** | A terminal cockpit for GitHub — PR board, review and stacked-PR workflow in one keyboard-driven TUI | `Go` `Bubble Tea` `GraphQL` |
 | **[StickyScroll](https://github.com/dotnetemmanuel/StickyScroll)** | JetBrains IDE plugin adding a sticky folder header to the Project tool window | `Kotlin` `IntelliJ SDK` |
+| **[jotter](https://github.com/dotnetemmanuel/jotter)** | A small, fast note-taking tool for the terminal | `Rust` |
 | **[Chlorophy](https://github.com/dotnetemmanuel/Chlorophy)** | Plant management app with watering countdowns, built on the Perenual API | `C#` `.NET MAUI` |
-| **[StronGator](https://github.com/dotnetemmanuel/StronGator)** | Password strength playground | `HTML` `JS` |
 
 <sub>More at **[github.com/dotnetemmanuel?tab=repositories](https://github.com/dotnetemmanuel?tab=repositories)**</sub>
 
@@ -106,8 +108,6 @@ utilities — mostly on .NET, increasingly on Rust and Go where they fit better.
 <img alt="Recent activity: contribution mix, most active repos and open-source contributions" src="./assets/stats-activity.svg" width="100%" />
 
 <img alt="Work habits: weekday activity pattern and consistency" src="./assets/stats-habits.svg" width="100%" />
-
-<img height="170" alt="Contribution streak" src="https://streak-stats.demolab.com?user=dotnetemmanuel&background=00172E&border=134E5A&stroke=134E5A&ring=FAA968&fire=F85525&currStreakNum=F6DCAC&sideNums=F6DCAC&currStreakLabel=FAA968&sideLabels=8CBFB8&dates=3F8F8A&excludeDaysLabel=3F8F8A&border_radius=8" />
 
 <img alt="Contribution activity" src="https://github-readme-activity-graph.vercel.app/graph?username=dotnetemmanuel&bg_color=00172E&color=F6DCAC&title_color=FAA968&line=FAA968&point=F85525&area=true&area_color=028391&hide_border=true&radius=8" />
 
