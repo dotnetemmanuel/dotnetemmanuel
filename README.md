@@ -6,7 +6,7 @@
 
 [![Blog](https://img.shields.io/badge/The_Nerd_Heap-00172E?style=for-the-badge&logo=devdotto&logoColor=FAA968&labelColor=00172E)](https://dev.to/dotnet_emmanuel)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00172E?style=for-the-badge&logo=linkedin&logoColor=FAA968&labelColor=00172E)](https://linkedin.com/in/emmanuel-duchene)
-[![Instagram](https://img.shields.io/badge/Instagram-00172E?style=for-the-badge&logo=instagram&logoColor=FAA968&labelColor=00172E)](https://instagram.com/dotnet_emmanuel)
+[![Instagram](https://img.shields.io/badge/Instagram-00172E?style=for-the-badge&logo=instagram&logoColor=FAA968&labelColor=00172E)](https://instagram.com/dotnetemmanuel)
 [![GitHub](https://img.shields.io/badge/GitHub-00172E?style=for-the-badge&logo=github&logoColor=FAA968&labelColor=00172E)](https://github.com/dotnetemmanuel)
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=FAA968&center=true&vCenter=true&width=760&height=42&lines=Systems+developer+in+Kungs%C3%B6r%2C+Sweden;Terminal-first%2C+keyboard-driven%2C+Linux-native;Building+developer+tools+I+actually+want+to+use" alt="Typing intro" />
