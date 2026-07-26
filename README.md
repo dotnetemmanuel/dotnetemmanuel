@@ -23,8 +23,10 @@ software and internal tooling on .NET.
 ###### The job
 
 - 🏢 Systems developer at **[Mindful Stack](https://mindfulstack.se)**, where I build and maintain line-of-business systems
-- 🧑‍🏫 Teaching at yrkeshögskolan, part of the same role
-- 🤝 Supervising LIA students through their placements: architecture, testing and code review
+- 🧑‍🏫 Teaching on the *Systemutvecklare .NET* programme at **[Campus Nyköping](https://www.campusnykoping.se)**, part of the same role
+- 📐 **Clean Code and Testable Architecture**: TDD and BDD, unit and integration testing, coupling and cohesion, design principles and patterns, and how architecture decides whether code is testable at all
+- ⚙️ **Development Tools and DevOps**: continuous integration and deployment, test automation, build pipelines, branching strategy in git, and target environment configuration
+- 🤝 Supervising LIA students through their placements
 
 ###### On my own time
 
@@ -43,8 +45,6 @@ software and internal tooling on .NET.
 ![C#](https://img.shields.io/badge/C%23-00172E?style=for-the-badge&logo=csharp&logoColor=FAA968)
 ![TypeScript](https://img.shields.io/badge/TypeScript-00172E?style=for-the-badge&logo=typescript&logoColor=FAA968)
 ![JavaScript](https://img.shields.io/badge/JavaScript-00172E?style=for-the-badge&logo=javascript&logoColor=FAA968)
-![Rust](https://img.shields.io/badge/Rust-00172E?style=for-the-badge&logo=rust&logoColor=FAA968)
-![Go](https://img.shields.io/badge/Go-00172E?style=for-the-badge&logo=go&logoColor=FAA968)
 ![Kotlin](https://img.shields.io/badge/Kotlin-00172E?style=for-the-badge&logo=kotlin&logoColor=FAA968)
 ![SQL](https://img.shields.io/badge/SQL-00172E?style=for-the-badge&logo=postgresql&logoColor=FAA968)
 ![HTML5](https://img.shields.io/badge/HTML5-00172E?style=for-the-badge&logo=html5&logoColor=FAA968)
@@ -62,7 +62,6 @@ software and internal tooling on .NET.
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-00172E?style=for-the-badge&logo=svelte&logoColor=E97B3C)
 ![Node.js](https://img.shields.io/badge/Node.js-00172E?style=for-the-badge&logo=nodedotjs&logoColor=E97B3C)
 ![Vite](https://img.shields.io/badge/Vite-00172E?style=for-the-badge&logo=vite&logoColor=E97B3C)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-00172E?style=for-the-badge&logo=tailwindcss&logoColor=E97B3C)
 
 ###### Data
 
@@ -77,6 +76,8 @@ software and internal tooling on .NET.
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-00172E?style=for-the-badge&logo=archlinux&logoColor=A7C9C6)
 ![Hyprland](https://img.shields.io/badge/Hyprland-00172E?style=for-the-badge&logo=hyprland&logoColor=A7C9C6)
 ![Neovim](https://img.shields.io/badge/Neovim-00172E?style=for-the-badge&logo=neovim&logoColor=A7C9C6)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-00172E?style=for-the-badge&logo=visualstudio&logoColor=A7C9C6)
+![VS Code](https://img.shields.io/badge/VS_Code-00172E?style=for-the-badge&logo=visualstudiocode&logoColor=A7C9C6)
 ![Rider](https://img.shields.io/badge/Rider-00172E?style=for-the-badge&logo=jetbrains&logoColor=A7C9C6)
 ![Zed](https://img.shields.io/badge/Zed-00172E?style=for-the-badge&logo=zedindustries&logoColor=A7C9C6)
 ![tmux](https://img.shields.io/badge/tmux-00172E?style=for-the-badge&logo=tmux&logoColor=A7C9C6)
@@ -103,7 +104,7 @@ software and internal tooling on .NET.
 
 <div align="center">
 
-<img alt="Engineer profile: language skills backed by the repos they ship in" src="./assets/stats-profile.svg" width="100%" />
+<img alt="Languages used in recent projects, with the repositories that evidence each one" src="./assets/stats-profile.svg" width="100%" />
 
 <img alt="Recent activity: contribution mix, most active repos and open-source contributions" src="./assets/stats-activity.svg" width="100%" />
 

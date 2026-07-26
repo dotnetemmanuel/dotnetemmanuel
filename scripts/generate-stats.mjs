@@ -230,7 +230,9 @@ function profileCard(d) {
     .map((l) => (l.repos[0].external ? `Contributed to ${l.repos[0].nameWithOwner} in ${l.name}` : `Built ${l.repos[0].name} using ${l.name}`));
   const evidence = [...new Set(d.topLangs.slice(0, 4).map((l) => l.repos[0].nameWithOwner))];
 
-  const heading = "Programming Language Skills";
+  // Describes what the repos are written in, not claimed mastery. The stack badges in the README
+  // are the skill claim; this card is only evidence of what has recently been shipped.
+  const heading = "Languages In Recent Projects";
   let y = 84;
   const parts = [
     `<text x="${PAD}" y="${y}" fill="${C.text}" font-size="15" font-weight="700">${heading}</text>`,

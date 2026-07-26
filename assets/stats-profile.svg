@@ -4,10 +4,10 @@
     <text x="22" y="34" fill="#8CBFB8" font-size="11" letter-spacing="3">ENGINEER PROFILE</text>
     <text x="858" y="34" fill="#3F8F8A" font-size="11" letter-spacing="2" text-anchor="end">1665 CONTRIBUTIONS / LAST 12 MONTHS</text>
     <line x1="0" y1="50" x2="880" y2="50" stroke="#134E5A" stroke-width="1"/>
-<text x="22" y="84" fill="#F6DCAC" font-size="15" font-weight="700">Programming Language Skills</text>
-<g><rect x="279" y="67" width="33.2" height="24" rx="5" fill="#011F3C" stroke="#134E5A"/><text x="295.6" y="83" fill="#8CBFB8" font-size="11" text-anchor="middle">C#</text></g>
-<g><rect x="320.2" y="67" width="59.6" height="24" rx="5" fill="#011F3C" stroke="#134E5A"/><text x="350.0" y="83" fill="#8CBFB8" font-size="11" text-anchor="middle">KOTLIN</text></g>
-<g><rect x="387.79999999999995" y="67" width="46.4" height="24" rx="5" fill="#011F3C" stroke="#134E5A"/><text x="411.0" y="83" fill="#8CBFB8" font-size="11" text-anchor="middle">RUST</text></g>
+<text x="22" y="84" fill="#F6DCAC" font-size="15" font-weight="700">Languages In Recent Projects</text>
+<g><rect x="288" y="67" width="33.2" height="24" rx="5" fill="#011F3C" stroke="#134E5A"/><text x="304.6" y="83" fill="#8CBFB8" font-size="11" text-anchor="middle">C#</text></g>
+<g><rect x="329.2" y="67" width="59.6" height="24" rx="5" fill="#011F3C" stroke="#134E5A"/><text x="359.0" y="83" fill="#8CBFB8" font-size="11" text-anchor="middle">KOTLIN</text></g>
+<g><rect x="396.79999999999995" y="67" width="46.4" height="24" rx="5" fill="#011F3C" stroke="#134E5A"/><text x="420.0" y="83" fill="#8CBFB8" font-size="11" text-anchor="middle">RUST</text></g>
 <text x="22" y="118" fill="#3F8F8A" font-size="11" letter-spacing="2">INDICATORS</text>
 <text x="22" y="142" fill="#3F8F8A" font-size="13">&#8211;</text>
 <text x="40" y="142" fill="#F6DCAC" font-size="13">Contributed to Mindful-Stack/smarticipate in C#</text>
