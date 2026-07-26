@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Emmanuel Duchene - Systems Developer">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#000d1c"/>
+      <stop offset="55%" stop-color="#00172e"/>
+      <stop offset="100%" stop-color="#012338"/>
+    </linearGradient>
+
+    <linearGradient id="sun" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#faa968"/>
+      <stop offset="55%" stop-color="#e97b3c"/>
+      <stop offset="100%" stop-color="#f85525"/>
+    </linearGradient>
+
+    <linearGradient id="gridFade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#028391" stop-opacity="0"/>
+      <stop offset="35%" stop-color="#028391" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#8cbfb8" stop-opacity="0.85"/>
+    </linearGradient>
+
+    <linearGradient id="hazeFade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#faa968" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#faa968" stop-opacity="0.16"/>
+    </linearGradient>
+
+    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="#000000" opacity="0.16"/>
+    </pattern>
+
+    <clipPath id="sunClip">
+      <circle cx="600" cy="216" r="74"/>
+    </clipPath>
+
+    <clipPath id="frame">
+      <rect x="0" y="0" width="1200" height="300" rx="10"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="300" fill="url(#sky)"/>
+
+    <!-- distant stars -->
+    <g fill="#f6dcac" opacity="0.5">
+      <circle cx="118" cy="46" r="1.4"/><circle cx="243" cy="88" r="1"/>
+      <circle cx="352" cy="34" r="1.2"/><circle cx="486" cy="70" r="1"/>
+      <circle cx="742" cy="42" r="1.3"/><circle cx="868" cy="82" r="1"/>
+      <circle cx="991" cy="38" r="1.2"/><circle cx="1102" cy="74" r="1"/>
+      <circle cx="64" cy="112" r="1"/><circle cx="1156" cy="120" r="1.1"/>
+    </g>
+
+    <!-- sun with retro banding -->
+    <circle cx="600" cy="216" r="74" fill="url(#sun)"/>
+    <g clip-path="url(#sunClip)" fill="#00172e">
+      <rect x="500" y="162" width="200" height="4"/>
+      <rect x="500" y="180" width="200" height="6"/>
+      <rect x="500" y="200" width="200" height="8"/>
+    </g>
+
+    <!-- horizon -->
+    <rect x="0" y="212" width="1200" height="88" fill="#00101f"/>
+    <rect x="0" y="150" width="1200" height="62" fill="url(#hazeFade)"/>
+    <rect x="0" y="211" width="1200" height="2" fill="#faa968" opacity="0.9"/>
+
+    <!-- perspective grid -->
+    <g stroke="url(#gridFade)" stroke-width="1.4" fill="none">
+      <path d="M600 212 L-360 300"/><path d="M600 212 L-140 300"/>
+      <path d="M600 212 L40 300"/><path d="M600 212 L200 300"/>
+      <path d="M600 212 L330 300"/><path d="M600 212 L440 300"/>
+      <path d="M600 212 L530 300"/><path d="M600 212 L600 300"/>
+      <path d="M600 212 L670 300"/><path d="M600 212 L760 300"/>
+      <path d="M600 212 L870 300"/><path d="M600 212 L1000 300"/>
+      <path d="M600 212 L1160 300"/><path d="M600 212 L1340 300"/>
+      <path d="M600 212 L1560 300"/>
+      <path d="M0 220 H1200" opacity="0.35"/>
+      <path d="M0 231 H1200" opacity="0.45"/>
+      <path d="M0 245 H1200" opacity="0.55"/>
+      <path d="M0 263 H1200" opacity="0.7"/>
+      <path d="M0 285 H1200" opacity="0.85"/>
+    </g>
+
+    <!-- title block -->
+    <g font-family="ui-monospace, 'JetBrains Mono', 'Fira Code', Menlo, Consolas, monospace" text-anchor="middle">
+      <text x="600" y="82" fill="#8cbfb8" font-size="17" letter-spacing="6">@dotnetemmanuel</text>
+      <text x="600" y="128" fill="#f6dcac" font-size="52" font-weight="700" letter-spacing="9">EMMANUEL DUCHENE</text>
+    </g>
+
+    <!-- corner readouts -->
+    <g font-family="ui-monospace, 'JetBrains Mono', monospace" font-size="13" fill="#3f8f8a" letter-spacing="2">
+      <text x="34" y="40">KUNGSÖR / SE</text>
+    </g>
+    <g stroke="#134e5a" stroke-width="1.6" fill="none">
+      <path d="M22 22 h30 M22 22 v22"/>
+      <path d="M1178 22 h-30 M1178 22 v22"/>
+    </g>
+
+    <rect width="1200" height="300" fill="url(#scanlines)"/>
+    <rect x="0.75" y="0.75" width="1198.5" height="298.5" rx="10" fill="none" stroke="#134e5a" stroke-width="1.5"/>
+  </g>
+</svg>

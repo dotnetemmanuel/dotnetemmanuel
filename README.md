@@ -1,25 +1,138 @@
-![MasterHead](./github_banner(1).png)
+<div align="center">
 
-# <img src="./icons8-verified-account-96.png" alt="Socials" width="25"/> Socials
-[![Instagram](https://img.shields.io/badge/Instagram-fe0a65?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dotnet_emmanuel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-1781ba?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanuel-duchene) [![DEV.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/dotnet_emmanuel)
+<img src="./banner.svg" alt="Emmanuel Duchene — Systems Developer" width="100%" />
 
-# <img src="./icons8-code-file-96.png" alt="Tech Stack" width="25"/> Tech Stack
-![C#](https://img.shields.io/badge/C%23-68217a?style=for-the-badge&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS-264de4?&style=for-the-badge&logo=css3&logoColor=white) ![Blazor](https://img.shields.io/badge/Blazor-512BD4.svg?&style=for-the-badge&logo=Blazor&logoColor=white)  
-![.Net](https://img.shields.io/badge/.Net-682a7b?style=for-the-badge&logo=.net&logoColor=white) ![ASP.Net](https://img.shields.io/badge/ASP.NET-682a7b?style=for-the-badge&logoColor=white) ![.NET Maui](https://img.shields.io/badge/Maui-512dd4?style=for-the-badge&logo=.net&logoColor=White)  
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft_SQL_Server-c02525?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![MSSQL](https://img.shields.io/badge/mssql-3765af.svg?style=for-the-badge&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-001e2b.svg?style=for-the-badge&logo=mongodb&logoColor=White) ![EntityFramework](https://img.shields.io/badge/EF_Core-5C2D91?style=for-the-badge&logo=EntityFramework&logoColor=white)
+<br/>
 
-# <img src="./icons8-statistics-64.png" alt="GitHub Stats" width="25"/> GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=dotnetemmanuel&theme=ayu-mirage&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dotnetemmanuel&theme=ayu-mirage&hide_border=true)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dotnetemmanuel&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=false&layout=compact&size_weight=0&count_weight=1)](https://github.com/ditnetemmanuel/github-readme-stats)
+[![Blog](https://img.shields.io/badge/The_Nerd_Heap-00172E?style=for-the-badge&logo=devdotto&logoColor=FAA968&labelColor=00172E)](https://dev.to/dotnet_emmanuel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00172E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0ZBQTk2OCI%2BPHBhdGggZD0iTTQuOTggMy41YTIuNSAyLjUgMCAxIDEgMCA1IDIuNSAyLjUgMCAwIDEgMC01ek0yLjQgOS41aDUuMlYyMkgyLjR6Ii8%2BPHBhdGggZD0iTTkuNSA5LjVoNXYxLjdjLjctMS4yIDIuMi0yLjEgNC4yLTIuMSAzLjIgMCA0LjggMiA0LjggNS43VjIyaC01LjJ2LTYuM2MwLTEuNi0uNi0yLjctMi0yLjctMS4xIDAtMS44LjctMi4xIDEuNS0uMS4zLS4xLjctLjEgMS4xVjIySDkuNXoiLz48L3N2Zz4=&logoColor=FAA968&labelColor=00172E)](https://linkedin.com/in/emmanuel-duchene)
+[![Instagram](https://img.shields.io/badge/Instagram-00172E?style=for-the-badge&logo=instagram&logoColor=FAA968&labelColor=00172E)](https://instagram.com/dotnetemmanuel)
+[![GitHub](https://img.shields.io/badge/GitHub-00172E?style=for-the-badge&logo=github&logoColor=FAA968&labelColor=00172E)](https://github.com/dotnetemmanuel)
 
-# <img src="./icons8-blog-64.png" alt="Blog Posts" width="25"/> Blog Posts - The Nerd Heap
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=FAA968&center=true&vCenter=true&width=760&height=42&lines=Systems+developer+in+Kungs%C3%B6r%2C+Sweden;Terminal-first%2C+keyboard-driven%2C+Linux-native;Building+developer+tools+I+actually+want+to+use" alt="Typing intro" />
+
+</div>
+
+---
+
+## `~/ whoami`
+
+Systems developer at **[Mindful Stack](https://mindfulstack.se)**, building line-of-business
+software and internal tooling on .NET.
+
+###### The job
+
+- 🏢 Systems developer at **[Mindful Stack](https://mindfulstack.se)**, where I build and maintain line-of-business systems
+- 🧑‍🏫 Teaching on the *Systemutvecklare .NET* programme at **[Campus Nyköping](https://www.campusnykoping.se)**, part of the same role
+  - 📐 **Clean Code and Testable Architecture**: TDD and BDD, unit and integration testing, coupling and cohesion, design principles and patterns, and how architecture decides whether code is testable at all
+  - ⚙️ **Development Tools and DevOps**: continuous integration and deployment, test automation, build pipelines, branching strategy in git, and target environment configuration
+- 🤝 Supervising LIA students through their placements
+
+###### On my own time
+
+- 🔭 **[Cairn](https://github.com/dotnetemmanuel/Cairn)**, a keyboard-driven TUI for stacked-PR workflows
+- 📓 **[jotter](https://github.com/dotnetemmanuel/jotter)**, a small note-taking tool in Rust
+- 🧩 **[StickyScroll](https://github.com/dotnetemmanuel/StickyScroll)**, a JetBrains IDE plugin
+- ✍️ Writing at **[The Nerd Heap](https://dev.to/dotnet_emmanuel)**
+- 🐧 Daily driver: Omarchy (Arch + Hyprland) on a ThinkPad P14s
+
+---
+
+## `~/ stack`
+
+###### Languages
+
+![C#](https://img.shields.io/badge/C%23-00172E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0ZBQTk2OCI%2BPHBhdGggZD0iTTkuNyA1LjZjLTMuMSAwLTUuNiAyLjktNS42IDYuNHMyLjUgNi40IDUuNiA2LjRjMiAwIDMuNy0xLjIgNC43LTNsLTIuMy0xLjRjLS41IDEtMS40IDEuNy0yLjQgMS43LTEuNyAwLTMuMS0xLjYtMy4xLTMuN3MxLjQtMy43IDMuMS0zLjdjMSAwIDEuOS43IDIuNCAxLjdsMi4zLTEuNGMtMS0xLjgtMi43LTMtNC43LTN6Ii8%2BPHBhdGggZD0iTTE3LjMgOC40aDEuNWwtLjQgMi4yaDEuOXYxLjVoLTIuMmwtLjMgMS45aDJ2MS41aC0yLjNsLS40IDIuMmgtMS41bC40LTIuMmgtMS42bC0uNCAyLjJoLTEuNWwuNC0yLjJoLTEuM3YtMS41aDEuNmwuMy0xLjloLTEuNXYtMS41aDEuOGwuNC0yLjJoMS41bC0uNCAyLjJoMS42em0tMS43IDMuNy0uMyAxLjloMS42bC4zLTEuOXoiLz48L3N2Zz4=&logoColor=FAA968)
+![TypeScript](https://img.shields.io/badge/TypeScript-00172E?style=for-the-badge&logo=typescript&logoColor=FAA968)
+![JavaScript](https://img.shields.io/badge/JavaScript-00172E?style=for-the-badge&logo=javascript&logoColor=FAA968)
+![Kotlin](https://img.shields.io/badge/Kotlin-00172E?style=for-the-badge&logo=kotlin&logoColor=FAA968)
+![SQL](https://img.shields.io/badge/SQL-00172E?style=for-the-badge&logo=postgresql&logoColor=FAA968)
+![HTML5](https://img.shields.io/badge/HTML5-00172E?style=for-the-badge&logo=html5&logoColor=FAA968)
+![CSS](https://img.shields.io/badge/CSS-00172E?style=for-the-badge&logo=css&logoColor=FAA968)
+![Bash](https://img.shields.io/badge/Bash-00172E?style=for-the-badge&logo=gnubash&logoColor=FAA968)
+
+###### Frameworks & Runtimes
+
+![.NET](https://img.shields.io/badge/.NET-00172E?style=for-the-badge&logo=dotnet&logoColor=E97B3C)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-00172E?style=for-the-badge&logo=dotnet&logoColor=E97B3C)
+![Blazor](https://img.shields.io/badge/Blazor-00172E?style=for-the-badge&logo=blazor&logoColor=E97B3C)
+![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-00172E?style=for-the-badge&logo=dotnet&logoColor=E97B3C)
+![EF Core](https://img.shields.io/badge/EF_Core-00172E?style=for-the-badge&logo=dotnet&logoColor=E97B3C)
+![Svelte](https://img.shields.io/badge/Svelte-00172E?style=for-the-badge&logo=svelte&logoColor=E97B3C)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-00172E?style=for-the-badge&logo=svelte&logoColor=E97B3C)
+![Node.js](https://img.shields.io/badge/Node.js-00172E?style=for-the-badge&logo=nodedotjs&logoColor=E97B3C)
+![Vite](https://img.shields.io/badge/Vite-00172E?style=for-the-badge&logo=vite&logoColor=E97B3C)
+
+###### Data
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00172E?style=for-the-badge&logo=postgresql&logoColor=8CBFB8)
+![SQL Server](https://img.shields.io/badge/SQL_Server-00172E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzhDQkZCOCI%2BPGVsbGlwc2UgY3g9IjEyIiBjeT0iNS40IiByeD0iOCIgcnk9IjMuMSIvPjxwYXRoIGQ9Ik00IDguNmMwIDEuNyAzLjYgMy4xIDggMy4xczgtMS40IDgtMy4xdjMuNGMwIDEuNy0zLjYgMy4xLTggMy4xcy04LTEuNC04LTMuMXoiLz48cGF0aCBkPSJNNCAxNWMwIDEuNyAzLjYgMy4xIDggMy4xczgtMS40IDgtMy4xdjMuNWMwIDEuNy0zLjYgMy4xLTggMy4xcy04LTEuNC04LTMuMXoiLz48L3N2Zz4=&logoColor=8CBFB8)
+![SQLite](https://img.shields.io/badge/SQLite-00172E?style=for-the-badge&logo=sqlite&logoColor=8CBFB8)
+![MongoDB](https://img.shields.io/badge/MongoDB-00172E?style=for-the-badge&logo=mongodb&logoColor=8CBFB8)
+
+###### Platform & Tooling
+
+![Windows](https://img.shields.io/badge/Windows-00172E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0E3QzlDNiI%2BPHBhdGggZD0iTTIgMy45IDEwLjYgMi43djguN0gyek0xMS45IDIuNSAyMiAxLjF2MTAuM0gxMS45ek0yIDEyLjZoOC42djguN0wyIDIwLjF6TTExLjkgMTIuNkgyMnYxMC4zbC0xMC4xLTEuNHoiLz48L3N2Zz4=&logoColor=A7C9C6)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-00172E?style=for-the-badge&logo=archlinux&logoColor=A7C9C6)
+![Hyprland](https://img.shields.io/badge/Hyprland-00172E?style=for-the-badge&logo=hyprland&logoColor=A7C9C6)
+![Neovim](https://img.shields.io/badge/Neovim-00172E?style=for-the-badge&logo=neovim&logoColor=A7C9C6)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-00172E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0E3QzlDNiI%2BPHBhdGggZD0iTTYuNiA3LjZjLTIuNiAwLTQuOCAyLTQuOCA0LjRzMi4yIDQuNCA0LjggNC40YzEuNyAwIDMtLjkgNC0ybDEuNC0xLjYgMS40IDEuNmMxLjEgMS4xIDIuMyAyIDQgMiAyLjYgMCA0LjgtMiA0LjgtNC40cy0yLjItNC40LTQuOC00LjRjLTEuNyAwLTMgLjktNCAyTDEyIDExLjJsLTEuNC0xLjZjLTEuMS0xLjEtMi4zLTItNC0yem0wIDIuNmMuOSAwIDEuNi41IDIuNCAxLjNsLjUuNS0uNS41Yy0uOC44LTEuNSAxLjMtMi40IDEuMy0xLjIgMC0yLjItLjgtMi4yLTEuOHMxLTEuOCAyLjItMS44em0xMC44IDBjMS4yIDAgMi4yLjggMi4yIDEuOHMtMSAxLjgtMi4yIDEuOGMtLjkgMC0xLjYtLjUtMi40LTEuM2wtLjUtLjUuNS0uNWMuOC0uOCAxLjUtMS4zIDIuNC0xLjN6Ii8%2BPC9zdmc%2B&logoColor=A7C9C6)
+![VS Code](https://img.shields.io/badge/VS_Code-00172E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0E3QzlDNiI%2BPHBhdGggZD0iTTE5LjQgMS43IDEyIDguNSA3LjMgNC45IDUgNi4xbDQuNCA1LjlMNSAxNy45bDIuMyAxLjJMMTIgMTUuNWw3LjQgNi44TDIyIDIxVjN6Ii8%2BPC9zdmc%2B&logoColor=A7C9C6)
+![Rider](https://img.shields.io/badge/Rider-00172E?style=for-the-badge&logo=jetbrains&logoColor=A7C9C6)
+![Zed](https://img.shields.io/badge/Zed-00172E?style=for-the-badge&logo=zedindustries&logoColor=A7C9C6)
+![tmux](https://img.shields.io/badge/tmux-00172E?style=for-the-badge&logo=tmux&logoColor=A7C9C6)
+![Docker](https://img.shields.io/badge/Docker-00172E?style=for-the-badge&logo=docker&logoColor=A7C9C6)
+![Git](https://img.shields.io/badge/Git-00172E?style=for-the-badge&logo=git&logoColor=A7C9C6)
+![GitHub Actions](https://img.shields.io/badge/Actions-00172E?style=for-the-badge&logo=githubactions&logoColor=A7C9C6)
+
+---
+
+## `~/ projects`
+
+| Project | What it is | Stack |
+| :--- | :--- | :--- |
+| **[Cairn](https://github.com/dotnetemmanuel/Cairn)** | A terminal cockpit for GitHub — PR board, review and stacked-PR workflow in one keyboard-driven TUI | `Go` `Bubble Tea` `GraphQL` |
+| **[StickyScroll](https://github.com/dotnetemmanuel/StickyScroll)** | JetBrains IDE plugin adding a sticky folder header to the Project tool window | `Kotlin` `IntelliJ SDK` |
+| **[jotter](https://github.com/dotnetemmanuel/jotter)** | A small, fast note-taking tool for the terminal | `Rust` |
+| **[Chlorophy](https://github.com/dotnetemmanuel/Chlorophy)** | Plant management app with watering countdowns, built on the Perenual API | `C#` `.NET MAUI` |
+
+<sub>More at **[github.com/dotnetemmanuel?tab=repositories](https://github.com/dotnetemmanuel?tab=repositories)**</sub>
+
+---
+
+## `~/ stats`
+
+<div align="center">
+
+<img alt="Languages used in recent projects, with the repositories that evidence each one" src="./assets/stats-profile.svg" width="100%" />
+
+<img alt="Recent activity: contribution mix, most active repos and open-source contributions" src="./assets/stats-activity.svg" width="100%" />
+
+<img alt="Work habits: weekday activity pattern and consistency" src="./assets/stats-habits.svg" width="100%" />
+
+<img alt="Contribution activity" src="https://github-readme-activity-graph.vercel.app/graph?username=dotnetemmanuel&bg_color=00172E&color=F6DCAC&title_color=FAA968&line=FAA968&point=F85525&area=true&area_color=028391&hide_border=true&radius=8" />
+
+</div>
+
+---
+
+## `~/ writing` — The Nerd Heap
+
 <!-- BLOG-POST-LIST:START -->
 - [The &#39;SELECT&#39; Few: Enhancing SSMS with SQL Add-Ons and tweaks](https://dev.to/dotnet_emmanuel/the-select-few-enhancing-ssms-with-sql-add-ons-and-tweaks-n4k)
 - [13 years, and welcome to The Nerd Heap!](https://dev.to/dotnet_emmanuel/13-years-and-welcome-to-the-nerd-heap-1b1l)
 <!-- BLOG-POST-LIST:END -->
 
-![](https://komarev.com/ghpvc/?username=dotnetemmanuel&color=F3CD7C&style=for-the-badge)
+<sub>Auto-updated hourly from the dev.to feed via GitHub Actions.</sub>
+
 ---
 
+<div align="center">
+
+<sub>Theme: <a href="https://github.com/OldJobobo/omarchy-retro-82-theme">Retro 82</a> for <a href="https://omarchy.org">Omarchy</a></sub>
+
+<br/>
+
+![Profile views](https://komarev.com/ghpvc/?username=dotnetemmanuel&label=VISITORS&color=faa968&style=flat-square&labelColor=00172E)
+
+</div>
