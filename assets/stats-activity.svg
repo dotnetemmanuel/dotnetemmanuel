@@ -5,8 +5,8 @@
     <text x="858" y="34" fill="#3F8F8A" font-size="11" letter-spacing="2" text-anchor="end">LAST 12 MONTHS</text>
     <line x1="0" y1="50" x2="880" y2="50" stroke="#134E5A" stroke-width="1"/>
 <text x="22" y="76" fill="#3F8F8A" font-size="11" letter-spacing="2">ACTIVITY BREAKDOWN</text>
-<rect x="22" y="86" width="659" height="10" rx="2" fill="#FAA968"/>
-<rect x="682" y="86" width="168" height="10" rx="2" fill="#028391"/>
+<rect x="22" y="86" width="660" height="10" rx="2" fill="#FAA968"/>
+<rect x="683" y="86" width="167" height="10" rx="2" fill="#028391"/>
 <rect x="851" y="86" width="7" height="10" rx="2" fill="#8CBFB8"/>
 <g><rect x="22" y="112" width="9" height="9" rx="2" fill="#FAA968"/><text x="37" y="120" fill="#8CBFB8" font-size="12">Commits 79%</text></g>
 <g><rect x="135.2" y="112" width="9" height="9" rx="2" fill="#028391"/><text x="150.2" y="120" fill="#8CBFB8" font-size="12">PRs 20%</text></g>
