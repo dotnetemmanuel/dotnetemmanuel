@@ -5,17 +5,18 @@
     <text x="858" y="34" fill="#3F8F8A" font-size="11" letter-spacing="2" text-anchor="end">LAST 12 MONTHS</text>
     <line x1="0" y1="50" x2="880" y2="50" stroke="#134E5A" stroke-width="1"/>
 <text x="22" y="76" fill="#3F8F8A" font-size="11" letter-spacing="2">ACTIVITY BREAKDOWN</text>
-<rect x="22" y="86" width="661" height="10" rx="2" fill="#FAA968"/>
-<rect x="684" y="86" width="165" height="10" rx="2" fill="#028391"/>
-<rect x="850" y="86" width="8" height="10" rx="2" fill="#8CBFB8"/>
+<rect x="22" y="86" width="658" height="10" rx="2" fill="#FAA968"/>
+<rect x="681" y="86" width="164" height="10" rx="2" fill="#028391"/>
+<rect x="846" y="86" width="12" height="10" rx="2" fill="#8CBFB8"/>
 <g><rect x="22" y="112" width="9" height="9" rx="2" fill="#FAA968"/><text x="37" y="120" fill="#8CBFB8" font-size="12">Commits 79%</text></g>
 <g><rect x="135.2" y="112" width="9" height="9" rx="2" fill="#028391"/><text x="150.2" y="120" fill="#8CBFB8" font-size="12">PRs 20%</text></g>
-<g><rect x="219.6" y="112" width="9" height="9" rx="2" fill="#8CBFB8"/><text x="234.6" y="120" fill="#8CBFB8" font-size="12">Issues 1%</text></g>
+<g><rect x="219.6" y="112" width="9" height="9" rx="2" fill="#8CBFB8"/><text x="234.6" y="120" fill="#8CBFB8" font-size="12">Issues 2%</text></g>
 <text x="22" y="162" fill="#3F8F8A" font-size="11" letter-spacing="2">MOST ACTIVE REPOS</text>
 <g><rect x="22" y="176" width="92.0" height="24" rx="5" fill="#011F3C" stroke="#134E5A"/><text x="68.0" y="192" fill="#F6DCAC" font-size="12" text-anchor="middle">jotter  92</text></g>
 <g><rect x="122" y="176" width="84.8" height="24" rx="5" fill="#011F3C" stroke="#134E5A"/><text x="164.4" y="192" fill="#F6DCAC" font-size="12" text-anchor="middle">Cairn  72</text></g>
 <g><rect x="214.8" y="176" width="128.0" height="24" rx="5" fill="#011F3C" stroke="#134E5A"/><text x="278.8" y="192" fill="#F6DCAC" font-size="12" text-anchor="middle">StickyScroll  4</text></g>
 <text x="22" y="222" fill="#3F8F8A" font-size="11" letter-spacing="2">OPEN-SOURCE CONTRIBUTION</text>
 <g><rect x="22" y="236" width="351.2" height="24" rx="5" fill="#011F3C" stroke="#134E5A"/><text x="197.6" y="252" fill="#8CBFB8" font-size="12" text-anchor="middle">Mindful-Stack/smarticipate  32 commits  1 star</text></g>
+<g><rect x="381.2" y="236" width="387.2" height="24" rx="5" fill="#011F3C" stroke="#134E5A"/><text x="574.8" y="252" fill="#8CBFB8" font-size="12" text-anchor="middle">Mindful-Stack/clean-code-devops-system25  2 commits</text></g>
   </g>
 </svg>
