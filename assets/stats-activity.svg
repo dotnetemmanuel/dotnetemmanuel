@@ -5,19 +5,17 @@
     <text x="858" y="34" fill="#3F8F8A" font-size="11" letter-spacing="2" text-anchor="end">LAST 12 MONTHS</text>
     <line x1="0" y1="50" x2="880" y2="50" stroke="#134E5A" stroke-width="1"/>
 <text x="22" y="76" fill="#3F8F8A" font-size="11" letter-spacing="2">ACTIVITY BREAKDOWN</text>
-<rect x="22" y="86" width="656" height="10" rx="2" fill="#FAA968"/>
-<rect x="679" y="86" width="156" height="10" rx="2" fill="#028391"/>
-<rect x="836" y="86" width="22" height="10" rx="2" fill="#8CBFB8"/>
-<g><rect x="22" y="112" width="9" height="9" rx="2" fill="#FAA968"/><text x="37" y="120" fill="#8CBFB8" font-size="12">Commits 79%</text></g>
-<g><rect x="135.2" y="112" width="9" height="9" rx="2" fill="#028391"/><text x="150.2" y="120" fill="#8CBFB8" font-size="12">PRs 19%</text></g>
-<g><rect x="219.6" y="112" width="9" height="9" rx="2" fill="#8CBFB8"/><text x="234.6" y="120" fill="#8CBFB8" font-size="12">Issues 3%</text></g>
+<rect x="22" y="86" width="691" height="10" rx="2" fill="#FAA968"/>
+<rect x="714" y="86" width="144" height="10" rx="2" fill="#028391"/>
+<g><rect x="22" y="112" width="9" height="9" rx="2" fill="#FAA968"/><text x="37" y="120" fill="#8CBFB8" font-size="12">Commits 83%</text></g>
+<g><rect x="135.2" y="112" width="9" height="9" rx="2" fill="#028391"/><text x="150.2" y="120" fill="#8CBFB8" font-size="12">PRs 17%</text></g>
 <text x="22" y="162" fill="#3F8F8A" font-size="11" letter-spacing="2">MOST ACTIVE REPOS</text>
 <g><rect x="22" y="176" width="92.0" height="24" rx="5" fill="#011F3C" stroke="#134E5A"/><text x="68.0" y="192" fill="#F6DCAC" font-size="12" text-anchor="middle">jotter  92</text></g>
 <g><rect x="122" y="176" width="84.8" height="24" rx="5" fill="#011F3C" stroke="#134E5A"/><text x="164.4" y="192" fill="#F6DCAC" font-size="12" text-anchor="middle">Cairn  91</text></g>
 <g><rect x="214.8" y="176" width="84.8" height="24" rx="5" fill="#011F3C" stroke="#134E5A"/><text x="257.2" y="192" fill="#F6DCAC" font-size="12" text-anchor="middle">tappa  44</text></g>
 <g><rect x="307.6" y="176" width="142.4" height="24" rx="5" fill="#011F3C" stroke="#134E5A"/><text x="378.8" y="192" fill="#F6DCAC" font-size="12" text-anchor="middle">omarchy-vitals  6</text></g>
 <text x="22" y="222" fill="#3F8F8A" font-size="11" letter-spacing="2">OPEN-SOURCE CONTRIBUTION</text>
-<g><rect x="22" y="236" width="358.4" height="24" rx="5" fill="#011F3C" stroke="#134E5A"/><text x="201.2" y="252" fill="#8CBFB8" font-size="12" text-anchor="middle">Mindful-Stack/smarticipate  110 commits  1 star</text></g>
-<g><rect x="388.4" y="236" width="387.2" height="24" rx="5" fill="#011F3C" stroke="#134E5A"/><text x="582.0" y="252" fill="#8CBFB8" font-size="12" text-anchor="middle">Mindful-Stack/clean-code-devops-system25  2 commits</text></g>
+<g><rect x="22" y="236" width="264.8" height="24" rx="5" fill="#011F3C" stroke="#134E5A"/><text x="154.4" y="252" fill="#8CBFB8" font-size="12" text-anchor="middle">Mindful-Stack/system_25  3 commits</text></g>
+<g><rect x="294.79999999999995" y="236" width="387.2" height="24" rx="5" fill="#011F3C" stroke="#134E5A"/><text x="488.4" y="252" fill="#8CBFB8" font-size="12" text-anchor="middle">Mindful-Stack/clean-code-devops-system25  2 commits</text></g>
   </g>
 </svg>
